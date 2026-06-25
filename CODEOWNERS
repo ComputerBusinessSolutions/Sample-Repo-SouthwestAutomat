@@ -1,0 +1,6 @@
+# CODEOWNERS — Southwest-Automated-Security
+# PRs targeting main, uat, or prerelease require approval from at least one
+# member of the admins team OR the project lead before they can be merged.
+# GitHub reads this file from the BASE branch of each PR.
+
+* @ComputerBusinessSolutions/admins @CBSI-KristianeOcampo
